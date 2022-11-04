@@ -41,5 +41,5 @@
 6. Modul photo berita (Sudah tidak Gepeng)
 
 ## INFORMASI
-Ini vesri fix dalam tahun ini, install tetap sama dengan sebelumnya, dan struktur database tidak berubah.
+Ini versi fix dalam tahun ini, install tetap sama dengan sebelumnya, dan struktur database tidak berubah.
 Jika malas install lagi, cukup timpa sourcode sebelumnya
